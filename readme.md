@@ -5,7 +5,7 @@
 2. [Conceitos Fundamentais](#conceitos-fundamentais)
 3. [Criptografia](#criptografia)
 4. [Descriptografia](#descriptografia)
-5. [Força Bruta - Ataque Kasiski](#força-bruta--ataque-kasiski)
+5. [Força Bruta](#força-bruta)
 6. [Função de Recuperação de Chave](#função-de-recuperação-de-chave)
 7. [Exemplos Práticos](#exemplos-práticos)
 
