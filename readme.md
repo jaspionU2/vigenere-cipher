@@ -5,7 +5,7 @@
 2. [Conceitos Fundamentais](#conceitos-fundamentais)
 3. [Criptografia](#criptografia)
 4. [Descriptografia](#descriptografia)
-5. [Força Bruta](#força-bruta)
+5. [Força Bruta — Índice de Coincidência (IC)](#força-bruta--índice-de-coincidência-ic)
 6. [Função de Recuperação de Chave](#função-de-recuperação-de-chave)
 7. [Exemplos Práticos](#exemplos-práticos)
 
